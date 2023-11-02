@@ -1,0 +1,16 @@
+C:\Users\momo\source\repos\папапепа\папапепа\bin\Debug\папапепа.exe.config
+C:\Users\momo\source\repos\папапепа\папапепа\bin\Debug\папапепа.exe
+C:\Users\momo\source\repos\папапепа\папапепа\bin\Debug\папапепа.pdb
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\папапепа.csproj.AssemblyReference.cache
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\папапепа.csproj.SuggestedBindingRedirects.cache
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\MainWindow.g.cs
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\App.g.cs
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\папапепа_MarkupCompile.cache
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\папапепа_MarkupCompile.lref
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\MainWindow.baml
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\папапепа.g.resources
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\папапепа.Properties.Resources.resources
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\папапепа.csproj.GenerateResource.cache
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\папапепа.csproj.CoreCompileInputs.cache
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\папапепа.exe
+C:\Users\momo\source\repos\папапепа\папапепа\obj\Debug\папапепа.pdb
